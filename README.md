@@ -1,8 +1,8 @@
 # Limbo Migrations API
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/limbo-works/Limbo.Umbraco.Migrations.FormsApi/blob/v8/main/LICENSE.md)
-[![NuGet](https://img.shields.io/nuget/vpre/Limbo.Umbraco.MigrationsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.FormsApi)
-[![NuGet](https://img.shields.io/nuget/dt/Limbo.Umbraco.MigrationsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.FormsApi)
+[![NuGet](https://img.shields.io/nuget/vpre/Limbo.Umbraco.Migrations.FormsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.FormsApi)
+[![NuGet](https://img.shields.io/nuget/dt/Limbo.Umbraco.Migrations.FormsApi.svg)](https://www.nuget.org/packages/Limbo.Umbraco.Migrations.FormsApi)
 [![Limbo.Umbraco.MigrationsApi at packages.limbo.works](https://img.shields.io/badge/limbo-packages-blue)](https://packages.limbo.works/limbo.umbraco.migrationsapi/)
 
 Adds an API to Umbraco 8 for exporting forms and form records.
